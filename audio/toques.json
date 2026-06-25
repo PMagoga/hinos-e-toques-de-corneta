@@ -1,0 +1,104 @@
+[
+  {
+    "id": 1,
+    "nome": "Atenção",
+    "arquivo":"/audio/atencao.mp3",
+    "tipo": "toque"
+  },
+  {
+    "id": 2,
+    "nome": "Sentido",
+    "arquivo":"/audio/sentido.mp3",
+    "tipo": "toque"
+  },
+  {
+    "id": 3,
+    "nome": "Ombro - Arma",
+    "arquivo":"/audio/ombro_arma.mp3",
+    "tipo": "toque"
+  },
+  {
+    "id": 4,
+    "nome": "Apresentar Arma",
+    "arquivo":"/audio/apresentar_arma.mp3",
+    "tipo": "toque"
+  },
+  {
+    "id": 5,
+    "nome": "Descansar Arma",
+    "arquivo":"/audio/descansar_arma.mp3",
+    "tipo": "toque"
+  },
+  {
+    "id": 6,
+    "nome": "Descansar",
+    "arquivo":"/audio/descansar.mp3",
+    "tipo": "toque"
+  },
+  {
+    "id": 7,
+    "nome": "Cruzar Arma",
+    "arquivo":"/audio/cruzar_arma.mp3",
+    "tipo": "toque"
+  },
+  {
+    "id": 8,
+    "nome": "À Vontade",
+    "arquivo":"/audio/a_vontade_.mp3",
+    "tipo": "toque"
+  },
+  {
+    "id": 9,
+    "nome": "Olhar à Direita",
+    "arquivo":"/audio/olha_direita_.mp3",
+    "tipo": "toque"
+  },
+  {
+    "id": 10,
+    "nome": "Olhar Frente",
+    "arquivo":"/audio/olhar_em_frente.mp3",
+    "tipo": "toque"
+  },
+  {
+    "id": 12,
+    "nome": "Canção do Exército",
+    "arquivo":"/audio/cancao_exercito.mp3",
+    "tipo": "cancao"
+  },
+  {
+    "id": 13,
+    "nome": "Canção do Expedicionário",
+    "arquivo":"/audio/cancao_expedicionario.mp3",
+    "tipo": "cancao"
+  },
+  {
+    "id": 14,
+    "nome": "Hino à Bandeira",
+    "arquivo":"/audio/hino_bandeira.mp3",
+    "tipo": "cancao"
+  },
+  {
+    "id": 15,
+    "nome": "Artilharia Antiaérea",
+    "arquivo":"/audio/artilharia_antiaerea.mp3",
+    "tipo": "cancao"
+  },
+  {
+    "id": 16,
+    "nome": "Ordinário Marche",
+    "arquivo":"/audio/ordinario_marche.mp3",
+    "tipo": "toque"
+  },
+  {
+    "id": 17,
+    "nome": "Canção da Artilharia",
+    "arquivo":"/audio/artilharia.mp3",
+    "tipo": "cancao"
+  },
+  {
+    "id": 18,
+    "nome": "Canção da Artilharia de Costa",
+    "arquivo":"/audio/artilharia_costa.mp3",
+    "tipo": "cancao"
+  }
+]
